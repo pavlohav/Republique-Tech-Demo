@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 674b3d097cfa8fa42aca13a735ecb29b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: m20_int_garage_door_closed_a_01
+    100004: m20_int_garage_door_frame_a_01
+    100006: m20_int_garage_door_halfOpen_a_01
+    100008: m20_int_garage_door_open_a_01
+    100010: m20_int_garage_door_roller_a_01
+    100012: Object006
+    100014: m20_int_garage_door_frame_b_01
+    100016: m20_int_garage_door_frame_c_01
+    100018: Object007
+    400000: //RootNode
+    400002: m20_int_garage_door_closed_a_01
+    400004: m20_int_garage_door_frame_a_01
+    400006: m20_int_garage_door_halfOpen_a_01
+    400008: m20_int_garage_door_open_a_01
+    400010: m20_int_garage_door_roller_a_01
+    400012: Object006
+    400014: m20_int_garage_door_frame_b_01
+    400016: m20_int_garage_door_frame_c_01
+    400018: Object007
+    2300000: m20_int_garage_door_closed_a_01
+    2300002: m20_int_garage_door_frame_a_01
+    2300004: m20_int_garage_door_halfOpen_a_01
+    2300006: m20_int_garage_door_open_a_01
+    2300008: m20_int_garage_door_roller_a_01
+    2300010: m20_int_garage_door_frame_b_01
+    2300012: m20_int_garage_door_frame_c_01
+    2300014: Object007
+    3300000: m20_int_garage_door_closed_a_01
+    3300002: m20_int_garage_door_frame_a_01
+    3300004: m20_int_garage_door_halfOpen_a_01
+    3300006: m20_int_garage_door_open_a_01
+    3300008: m20_int_garage_door_roller_a_01
+    3300010: m20_int_garage_door_frame_b_01
+    3300012: m20_int_garage_door_frame_c_01
+    3300014: Object007
+    4300000: m20_int_garage_door_frame_a_01
+    4300002: m20_int_garage_door_roller_a_01
+    4300004: m20_int_garage_door_closed_a_01
+    4300006: m20_int_garage_door_halfOpen_a_01
+    4300008: m20_int_garage_door_open_a_01
+    4300010: m20_int_garage_door_frame_c_01
+    4300012: m20_int_garage_door_frame_b_01
+    4300014: Object007
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 

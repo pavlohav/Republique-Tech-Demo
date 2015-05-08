@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: dfbe8d82148b6e04e96c30019895f38e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: intelligencia_bed_cover_a_01
+    100002: intelligencia_bed_cover_b_01
+    100004: intelligencia_bed_pillow_a_01
+    100006: intelligencia_bed_pillow_b_01
+    100008: intelligencia_bed_sheet_low_a_01
+    100010: intelligencia_bed_sheet_low_a_02
+    100012: //RootNode
+    400000: intelligencia_bed_cover_a_01
+    400002: intelligencia_bed_cover_b_01
+    400004: intelligencia_bed_pillow_a_01
+    400006: intelligencia_bed_pillow_b_01
+    400008: intelligencia_bed_sheet_low_a_01
+    400010: intelligencia_bed_sheet_low_a_02
+    400012: //RootNode
+    2300000: intelligencia_bed_cover_a_01
+    2300002: intelligencia_bed_cover_b_01
+    2300004: intelligencia_bed_pillow_a_01
+    2300006: intelligencia_bed_pillow_b_01
+    2300008: intelligencia_bed_sheet_low_a_01
+    2300010: intelligencia_bed_sheet_low_a_02
+    3300000: intelligencia_bed_cover_a_01
+    3300002: intelligencia_bed_cover_b_01
+    3300004: intelligencia_bed_pillow_a_01
+    3300006: intelligencia_bed_pillow_b_01
+    3300008: intelligencia_bed_sheet_low_a_01
+    3300010: intelligencia_bed_sheet_low_a_02
+    4300000: intelligencia_bed_cover_a_01
+    4300002: intelligencia_bed_pillow_a_01
+    4300004: intelligencia_bed_sheet_low_a_01
+    4300006: intelligencia_bed_cover_b_01
+    4300008: intelligencia_bed_pillow_b_01
+    4300010: intelligencia_bed_sheet_low_a_02
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

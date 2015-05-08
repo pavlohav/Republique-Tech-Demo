@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 68d1f97afa06d1744b3717f482c86df1
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: m20_Atrium_banister_a_002.1
+    100004: m20_Atrium_banister_post_a_01.1
+    100006: m20_Atrium_banister_a_01
+    100008: m20_Atrium_banister_post_a_01
+    100010: m20_Atrium_banister_a_Collision
+    100012: m20_Atrium_banister_post_a_Collision
+    400000: //RootNode
+    400002: m20_Atrium_banister_a_002.1
+    400004: m20_Atrium_banister_post_a_01.1
+    400006: m20_Atrium_banister_a_01
+    400008: m20_Atrium_banister_post_a_01
+    400010: m20_Atrium_banister_a_Collision
+    400012: m20_Atrium_banister_post_a_Collision
+    2300000: //RootNode
+    2300002: m20_Atrium_banister_a_002.1
+    2300004: m20_Atrium_banister_post_a_01.1
+    2300006: m20_Atrium_banister_a_01
+    2300008: m20_Atrium_banister_post_a_01
+    2300010: m20_Atrium_banister_a_Collision
+    2300012: m20_Atrium_banister_post_a_Collision
+    3300000: //RootNode
+    3300002: m20_Atrium_banister_a_002.1
+    3300004: m20_Atrium_banister_post_a_01.1
+    3300006: m20_Atrium_banister_a_01
+    3300008: m20_Atrium_banister_post_a_01
+    3300010: m20_Atrium_banister_a_Collision
+    3300012: m20_Atrium_banister_post_a_Collision
+    4300000: m20_Atrium_banister_a_01
+    4300002: m20_Atrium_banister_post_a_01.1
+    4300004: m20_Atrium_banister_a_002.1
+    4300006: m20_Atrium_banister_post_a_01
+    4300008: m20_Atrium_banister_a_Collision
+    4300010: m20_Atrium_banister_post_a_Collision
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 104
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 19
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 

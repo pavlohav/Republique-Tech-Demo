@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: db8c4233ee50c0a41b0c01081581e1ad
+timeCreated: 1428514166
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: atrium_collider
+    100002: Ceilings00
+    100004: Ceilings01
+    100006: Ceilings02
+    100008: Ceilings03
+    100010: Ceilings04
+    100012: cells_collider
+    100014: Floor_NavMesh
+    100016: inv_collider
+    100018: lockers_collider
+    100020: Props
+    100022: props
+    100024: props 1
+    100026: props 2
+    100028: security_collider
+    100030: terminus_collider
+    100032: //RootNode
+    400000: atrium_collider
+    400002: Ceilings00
+    400004: Ceilings01
+    400006: Ceilings02
+    400008: Ceilings03
+    400010: Ceilings04
+    400012: cells_collider
+    400014: Floor_NavMesh
+    400016: inv_collider
+    400018: lockers_collider
+    400020: Props
+    400022: props
+    400024: props 1
+    400026: props 2
+    400028: security_collider
+    400030: terminus_collider
+    400032: //RootNode
+    2300000: atrium_collider
+    2300002: Ceilings00
+    2300004: Ceilings01
+    2300006: Ceilings02
+    2300008: Ceilings03
+    2300010: Ceilings04
+    2300012: cells_collider
+    2300014: Floor_NavMesh
+    2300016: inv_collider
+    2300018: lockers_collider
+    2300020: Props
+    2300022: props
+    2300024: props 1
+    2300026: props 2
+    2300028: security_collider
+    2300030: terminus_collider
+    3300000: atrium_collider
+    3300002: Ceilings00
+    3300004: Ceilings01
+    3300006: Ceilings02
+    3300008: Ceilings03
+    3300010: Ceilings04
+    3300012: cells_collider
+    3300014: Floor_NavMesh
+    3300016: inv_collider
+    3300018: lockers_collider
+    3300020: Props
+    3300022: props
+    3300024: props 1
+    3300026: props 2
+    3300028: security_collider
+    3300030: terminus_collider
+    4300000: atrium_collider
+    4300002: terminus_collider
+    4300004: inv_collider
+    4300006: lockers_collider
+    4300008: cells_collider
+    4300010: security_collider
+    4300012: Floor_NavMesh
+    4300014: Ceilings04
+    4300016: Ceilings03
+    4300018: Ceilings02
+    4300020: Ceilings01
+    4300022: Ceilings00
+    4300024: Props
+    4300026: props
+    4300028: props
+    4300030: props
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

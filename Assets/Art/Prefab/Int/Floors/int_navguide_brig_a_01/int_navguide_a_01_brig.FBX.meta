@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: c123386c005ec6b429e949f6646e0604
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Line002
+    100002: Line003
+    100004: //RootNode
+    100006: navguide_atrium_mainoffice_01
+    100008: navguide_atrium_officeenter_01
+    100010: navguide_atrium_portal_01
+    100012: navguide_brig_brig_01
+    100014: navguide_brig_cooper_01
+    100016: navguide_powerstation_hallway_01
+    100018: navguide_powerstation_landing_01
+    100020: navguide_powerstation_station_01
+    100022: Alignment Node
+    100024: ATRIUM_GUARDQ_01
+    400000: Line002
+    400002: Line003
+    400004: //RootNode
+    400006: navguide_atrium_mainoffice_01
+    400008: navguide_atrium_officeenter_01
+    400010: navguide_atrium_portal_01
+    400012: navguide_brig_brig_01
+    400014: navguide_brig_cooper_01
+    400016: navguide_powerstation_hallway_01
+    400018: navguide_powerstation_landing_01
+    400020: navguide_powerstation_station_01
+    400022: Alignment Node
+    400024: ATRIUM_GUARDQ_01
+    2300000: Line002
+    2300002: Line003
+    2300004: navguide_atrium_mainoffice_01
+    2300006: navguide_atrium_officeenter_01
+    2300008: navguide_atrium_portal_01
+    2300010: navguide_brig_brig_01
+    2300012: navguide_brig_cooper_01
+    2300014: navguide_powerstation_hallway_01
+    2300016: //RootNode
+    2300018: navguide_powerstation_landing_01
+    2300020: navguide_powerstation_station_01
+    2300022: Alignment Node
+    3300000: Line002
+    3300002: Line003
+    3300004: navguide_atrium_mainoffice_01
+    3300006: navguide_atrium_officeenter_01
+    3300008: navguide_atrium_portal_01
+    3300010: navguide_brig_brig_01
+    3300012: navguide_brig_cooper_01
+    3300014: navguide_powerstation_hallway_01
+    3300016: //RootNode
+    3300018: navguide_powerstation_landing_01
+    3300020: navguide_powerstation_station_01
+    3300022: Alignment Node
+    4300000: navguide_brig_cooper_01
+    4300002: navguide_brig_brig_01
+    4300004: navguide_powerstation_hallway_01
+    4300006: navguide_atrium_mainoffice_01
+    4300008: navguide_atrium_portal_01
+    4300010: navguide_atrium_officeenter_01
+    4300012: Line002
+    4300014: Line003
+    4300016: Alignment Node
+    4300018: navguide_powerstation_station_01
+    4300020: navguide_powerstation_landing_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

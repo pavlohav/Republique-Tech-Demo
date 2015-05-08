@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fx_glass_a_02
+  m_Shader: {fileID: 4800000, guid: d27992ec1810eae47b82862acb1b8db4, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 0227b28e18dca5649b0c2bd7d9650bc6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NetRampTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MatCap
+        second:
+          m_Texture: {fileID: 2800000, guid: 8f1af556d48335849b63502544430965, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _VirtualSpecRange
+        second: 40
+      data:
+        first:
+          name: _VirtualShininess
+        second: .0485727601
+      data:
+        first:
+          name: _GlassOpaque
+        second: -.0299999993
+      data:
+        first:
+          name: _Exponent
+        second: 4
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0, g: 0, b: 0, a: .200000003}
+      data:
+        first:
+          name: _NetColor
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _VirtualSpecColor
+        second: {r: .274509817, g: .274509817, b: .274509817, a: 1}
+      data:
+        first:
+          name: _VirtualSpecOffset
+        second: {r: 0, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: _GlassOpaqueColor
+        second: {r: .850746274, g: .832720876, b: .666629553, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: .5, g: .5, b: .5, a: .0392156877}

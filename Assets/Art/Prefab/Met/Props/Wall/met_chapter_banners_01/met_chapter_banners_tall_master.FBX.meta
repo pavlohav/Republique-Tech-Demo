@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 89e80015f09995142b69b3e9b917dc8a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: atrium_banner_tall_00
+    100002: atrium_banner_tall_01
+    100004: atrium_banner_tall_02
+    100006: atrium_banner_tall_03
+    100008: atrium_banner_tall_04
+    100010: //RootNode
+    100012: atrium_banner_string_a_01
+    400000: atrium_banner_tall_00
+    400002: atrium_banner_tall_01
+    400004: atrium_banner_tall_02
+    400006: atrium_banner_tall_03
+    400008: atrium_banner_tall_04
+    400010: //RootNode
+    400012: atrium_banner_string_a_01
+    2300000: atrium_banner_tall_00
+    2300002: atrium_banner_tall_01
+    2300004: atrium_banner_tall_02
+    2300006: atrium_banner_tall_03
+    2300008: atrium_banner_tall_04
+    2300010: atrium_banner_string_a_01
+    3300000: atrium_banner_tall_00
+    3300002: atrium_banner_tall_01
+    3300004: atrium_banner_tall_02
+    3300006: atrium_banner_tall_03
+    3300008: atrium_banner_tall_04
+    3300010: atrium_banner_string_a_01
+    4300000: atrium_banner_tall_03
+    4300002: atrium_banner_tall_00
+    4300004: atrium_banner_tall_01
+    4300006: atrium_banner_tall_02
+    4300008: atrium_banner_tall_04
+    4300010: atrium_banner_string_a_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
